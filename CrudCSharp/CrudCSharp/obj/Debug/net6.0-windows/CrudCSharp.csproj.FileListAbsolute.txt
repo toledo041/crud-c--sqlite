@@ -1,0 +1,80 @@
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\CrudCSharp.exe
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\CrudCSharp.deps.json
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\CrudCSharp.runtimeconfig.json
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\CrudCSharp.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\CrudCSharp.pdb
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.csproj.AssemblyReference.cache
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.Form1.resources
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.csproj.GenerateResource.cache
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.AssemblyInfoInputs.cache
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.AssemblyInfo.cs
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.csproj.CopyComplete
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\refint\CrudCSharp.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.pdb
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.genruntimeconfig.cache
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\ref\CrudCSharp.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\CrudCSharp.dll.config
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.RegistroActualizaFrm.resources
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\Vinculation.db
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.LoginForm.resources
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.RegisterLogin.resources
+C:\Users\Humberto Arzate\source\repos\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.ForgotForm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\Vinculation.db
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\CrudCSharp.exe
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\CrudCSharp.dll.config
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\CrudCSharp.deps.json
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\CrudCSharp.runtimeconfig.json
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\CrudCSharp.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\CrudCSharp.pdb
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.csproj.AssemblyReference.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.ForgotForm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.Form1.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.LoginForm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.RegisterLogin.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.RegistroActualizaFrm.resources
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.csproj.GenerateResource.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.AssemblyInfoInputs.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.AssemblyInfo.cs
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.csproj.CopyComplete
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\refint\CrudCSharp.dll
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.pdb
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\CrudCSharp.genruntimeconfig.cache
+C:\Users\Toled\OneDrive\Documentos\Proyecto\CrudCSharp\CrudCSharp\obj\Debug\net6.0-windows\ref\CrudCSharp.dll
